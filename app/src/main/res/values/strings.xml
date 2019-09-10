@@ -5,4 +5,10 @@
     <string name="label_password">Senha</string>
     <string name="btn_acess">Entrar</string>
     <string name="label_signup">Não tem cadastro?</string>
+    <string name="btn_register">Salvar</string>
+    <string name="label_name">Nome</string>
+    <string name="label_phone">Telefone</string>
+    <string name="label_confirmPass">Confirmar Senha</string>
+    <string name="msg_campo_obrigatorio">Este campo é obrigatório</string>
+    <string name="msg_registro_salvo">Seu registro foi salvo!</string>
 </resources>
